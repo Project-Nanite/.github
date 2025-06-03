@@ -1,7 +1,8 @@
 ## Project-Nanite
 
-![image](https://github.com/user-attachments/assets/ca244558-a8e7-4949-813a-56991c334cb4)
+<img src="https://github.com/user-attachments/assets/ca244558-a8e7-4949-813a-56991c334cb4" width="300" height="300" />
 
+---
 
 Nanite is a specialized Debian-based Linux distribution designed for AI engineers and Vibe Coders. It integrates various AI models, agents, and applications directly into the operating system, providing users with immediate access to AI assistance through Large Language Models (LLMs). This document outlines the architecture and software stack for Nanite, detailing how the various components will be integrated and function together.
 
