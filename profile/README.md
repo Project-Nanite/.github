@@ -1,6 +1,6 @@
 ## Project-Nanite
 
-<img src="https://github.com/user-attachments/assets/ca244558-a8e7-4949-813a-56991c334cb4" width="300" height="300" />
+![bg](https://github.com/user-attachments/assets/53f6734c-7b58-4d78-9a79-61ac6c3ff39e)
 
 ---
 
